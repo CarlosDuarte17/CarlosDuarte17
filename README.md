@@ -13,6 +13,7 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue%20js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
+![Livewire](https://img.shields.io/badge/livewire-4e56a6?style=flat&logo=livewire&logoColor=white)
 
 ## Find me at 👇
 
