@@ -1,4 +1,4 @@
-# Carlos Duarte 💙 🇳🇮
+# Carlos Duarte 🇳🇮
 
 ## Software Engineer
 
